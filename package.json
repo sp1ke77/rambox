@@ -84,7 +84,7 @@
 	},
 	"devDependencies": {
 		"asar": "^0.12.1",
-		"electron": "^1.6.1",
+		"electron": "^9.1.0",
 		"electron-builder": "^14.5.3",
 		"electron-builder-squirrel-windows": "15.0.0",
 		"electron-squirrel-startup": "^1.0.0",
